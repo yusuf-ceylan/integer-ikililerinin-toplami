@@ -1,0 +1,16 @@
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\bin\Debug\net5.0\integer-ikililerinin-toplami.exe
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\bin\Debug\net5.0\integer-ikililerinin-toplami.deps.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\bin\Debug\net5.0\integer-ikililerinin-toplami.runtimeconfig.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\bin\Debug\net5.0\integer-ikililerinin-toplami.runtimeconfig.dev.json
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\bin\Debug\net5.0\integer-ikililerinin-toplami.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\bin\Debug\net5.0\integer-ikililerinin-toplami.pdb
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\integer-ikililerinin-toplami.csproj.AssemblyReference.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\integer-ikililerinin-toplami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\integer-ikililerinin-toplami.AssemblyInfoInputs.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\integer-ikililerinin-toplami.AssemblyInfo.cs
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\integer-ikililerinin-toplami.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\integer-ikililerinin-toplami.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\refint\integer-ikililerinin-toplami.dll
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\integer-ikililerinin-toplami.pdb
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\integer-ikililerinin-toplami.genruntimeconfig.cache
+C:\Users\yusuf.ceylan.ESG-1100\Desktop\Pratikler\integer-ikililerinin-toplami\obj\Debug\net5.0\ref\integer-ikililerinin-toplami.dll
